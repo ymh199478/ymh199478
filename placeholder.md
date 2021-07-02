@@ -2,7 +2,7 @@
 
 ### go-micro
 
-根据下划线，展开成对应的 json 格式
+非传统占位符，而是根据下划线，展开成对应的 json 格式
 
 ```env
 DATABASE_ADDRESS=127.0.0.1
