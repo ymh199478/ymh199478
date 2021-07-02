@@ -1,6 +1,13 @@
 ## 占位符
 
+### beego
 
+https://github.com/beego/beego
+
+```ini
+token = ${TOKEN}
+token = ${TOKEN||default-value}
+```
 
 ### revel (go)
 
