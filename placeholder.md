@@ -1,9 +1,5 @@
 ## 占位符
 
-### hugo
-
-https://github.com/gohugoio/hugo
-
 
 
 ### beego
