@@ -1,6 +1,6 @@
 ## 占位符
 
-
+## go
 
 ### beego
 
@@ -11,7 +11,7 @@ token = ${TOKEN}
 token = ${TOKEN||default-value}
 ```
 
-### revel (go)
+### revel
 
 https://github.com/revel/revel
 
@@ -44,4 +44,25 @@ DATABASE_PORT=3306
         "port": 3306
     }
 }
+```
+
+## php
+
+### symfony
+
+https://github.com/symfony/symfony
+
+```yaml
+key: %kernel.project_dir%
+env: %env(ENV_VAR_NAME)%
+```
+
+## Java
+
+### Spring
+
+https://github.com/spring-projects/spring-framework
+
+```
+FOO=${FOO}
 ```
